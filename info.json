@@ -1,0 +1,6 @@
+{
+    "question": "Qual o número de entrada?\n",
+    "questionAlternative": "Novamente, qual o número de entrada?\n",
+    "errorIsNaN": "\nATENÇÃO: Apenas números é permitido!\n",
+    "success": "\n-------------------\n\nRESULTADO:"
+}
